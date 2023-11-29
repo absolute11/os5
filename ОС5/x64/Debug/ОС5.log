@@ -1,0 +1,9 @@
+﻿  cd
+c1xx : fatal error C1083: Не удается открыть файл источник: cd: No such file or directory,
+  ОС5
+c1xx : fatal error C1083: Не удается открыть файл источник: C:\Users\Денисятина\Desktop\ОС5: No such file or directory,
+  list.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: C:\Users\Admin\OneDrive\Рабочий стол\OC\list.cpp: No such file or directory,
+  oclab 5.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: C:\Users\Admin\OneDrive\Рабочий стол\OC\oclab 5.cpp: No such file or directory,
+  Создание кода...
